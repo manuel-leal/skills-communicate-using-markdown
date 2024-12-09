@@ -16,3 +16,13 @@ def factorial(n):
     return 1
   return n * factorial(n-1)
 ```
+
+## A task list
+
+- [x] Add headers
+- [x] Add keywords
+- [x] Add an image
+- [x] Add code
+- [x] Add task list
+- [ ] Add something else
+- [ ] Win
